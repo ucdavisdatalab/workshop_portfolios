@@ -1,10 +1,10 @@
 ---
-title: YOUR WORKSHOP TITLE
-author: [YOUR NAME]
+title: Developing your data science portfolio
+author: Michele Tobias
 date: "`r Sys.Date()`"
 
 github-repo: ucdavisdatalab/YOUR_REPO
-url: "https://ucdavisdatalab.github.io/YOUR_REPO/"
+url: "https://ucdavisdatalab.github.io/workshop_portfolios/"
 
 site: "bookdown::bookdown_site"
 knit: "bookdown::render_book"
@@ -29,4 +29,11 @@ output:
 
 # Overview {-}
 
-YOUR DESCRIPTION, LEARNING GOALS, PREREQUISITES, ETC
+## Workshop Description
+A digital (online) portfolio complements you CV and other application materials on the job market or in grant applications and demonstrates your skills to potential collaborators and employers.  In this workshop, we will discuss reasons you want to create a digital portfolio of your work, methods for creating it, and considerations for carefully curating and presenting your work in an engaging manner.	
+
+## Learning Objectives
+Participants will learn reasons to create a digital portfolio, methods for creating and curating their digtial portofolio, and see examples of digital portfolios for programmers, data scientists, and geospatial scientists.	
+
+## Prerequisites
+There are no prerequisites for this workshop. Recommended: Please have an updated copy of your CV or resume for reference and a list of recent projects or skills (if applicable). Participants should have access to a web browser (for example, Chrome or Firefox).
