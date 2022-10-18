@@ -1,0 +1,7 @@
+workshop-description
+learning-objectives
+prerequisites
+introduction
+work-in-progress
+introducing-digital-portfolios
+things-to-consider
