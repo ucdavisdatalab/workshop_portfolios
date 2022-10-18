@@ -1,3 +1,4 @@
+<!--
 # Template: Workshop Reader
 
 This repository is a template for workshop readers for the UC Davis DataLab.
@@ -55,21 +56,31 @@ repo:
 
 7. `git add` all changed files, then `git commit` and `git push`.
 
+-->
 
-# Workshop: YOUR WORKSHOP TITLE
+# Workshop: Developing your data science portfolio
 
 _[UC Davis DataLab](https://datalab.ucdavis.edu/)_  
-_QUARTER YEAR_  
-_Instructor: YOUR NAME <<YOUR_EMAIL@ucdavis.edu>>_  
-_Maintainer: MAINTAINER'S NAME <<MAINTAINER_EMAIL@ucdavis.edu>>_
+_Winter 2023_  
+_Instructor: Michele Tobias <<mmtobias@ucdavis.edu>>_  
+_Maintainer: Michele Tobias <<mmtobias@ucdavis.edu>>_ 
 
-* [Reader](https://ucdavisdatalab.github.io/YOUR_REPOSITORY/)
+* [Reader](https://ucdavisdatalab.github.io/workshop_portfolios
+/)
 * [Event Page](https://datalab.ucdavis.edu/eventscalendar/YOUR_EVENT/)
 
-YOUR DESCRIPTION, LEARNING GOALS, PREREQUISITES, ETC
+
+# Workshop Description
+A digital (online) portfolio complements you CV and other application materials on the job market or in grant applications and demonstrates your skills to potential collaborators and employers.  In this workshop, we will discuss reasons you want to create a digital portfolio of your work, methods for creating it, and considerations for carefully curating and presenting your work in an engaging manner.	
+
+## Learning Objectives
+Participants will learn reasons to create a digital portfolio, methods for creating and curating their digtial portofolio, and see examples of digital portfolios for programmers, data scientists, and geospatial scientists.	
+
+## Prerequisites
+There are no prerequisites for this workshop. Recommended: Please have an updated copy of your CV or resume for reference and a list of recent projects or skills (if applicable). Participants should have access to a web browser (for example, Chrome or Firefox).
 
 
-## Contributing
+# Contributing
 
 The course reader is a live webpage, hosted through GitHub, where you can enter
 curriculum content and post it to a public-facing site for learners.
@@ -119,7 +130,7 @@ To make alterations to the reader:
     automatically after 1-10 minutes.
 
 
-### Caching
+## Caching
 
 If one of your code chunks takes a lot of time or memory to run, consider
 caching the result, so the chunk won't run every time someone knits the
@@ -142,7 +153,7 @@ code chunks that are not resource-intensive.
 
 
 <!--
-### Large Files
+## Large Files
 
 If you want to include a large file (say over 1 MB), you should use git LFS.
 You can register a large file with git LFS with the shell command:
@@ -167,7 +178,7 @@ large files. If your large file is more than 50 MB, check with the other
 contributors before adding it.
 -->
 
-### Github Actions
+## Github Actions
 
 GitHub Actions can be set up to automatically render your reader when you push 
 new content to a repo. If you would like to use this function, download the 
@@ -176,11 +187,11 @@ follow the instructions there.
 
 [render-site]: https://github.com/datalab-dev/utilities/tree/main/render_bookdown_site
 
-## Setup
+# Setup
 
 
 <!--
-### Git LFS
+## Git LFS
 
 This repo uses [Git Large File Storage][git-lfs] (git LFS) for large files. If
 you don't have git LFS installed, [download it][git-lfs] and run the installer.
@@ -198,7 +209,7 @@ repo.
 -->
 
 
-### R Packages
+## R Packages
 
 This repo uses [**renv**](https://rstudio.github.io/renv/) for package
 management. Install **renv** according to the installation instructions on
