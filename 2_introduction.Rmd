@@ -10,6 +10,11 @@ A digital portfolio is an electronic collection of examples of your work. Typica
 A digital portfolio is a tool that you can use in addition to your CV or resume to demonstrate your skills to potential collaborators or employers.
 
 
+Definition - what is a portfolio, and why do you need one?
+Who you are and shows what you can do. Targeted for a specific purpose or purposes.
+Common definition: “portfolio as public evidence of your data science skills.” Features your code and documentation, and writing samples to show your ability to communicate effectively about data. Demonstrates how you think about problem-solving.
+
+
 ## Things to Consider
 
 *This will probably expand into different sections*
