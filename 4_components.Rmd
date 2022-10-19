@@ -1,0 +1,19 @@
+# Components of “Data Science” Portfolio
+
+Resume/CV
+Explain differences
+Strategy for CV -> resume
+Requirements
+Real Name, affiliation, location
+OCRid, Google Scholar (if academic)
+GitHub handle
+Caveat: Machine readability
+Examples of good vs bad
+GitHub
+Public repo (project) with: code, documentation, narrative, ideally also a “product” (visual, interactive, web app, etc.)
+Organized; easy to navigate
+Website
+GitHub Pages, Wordpress, etc. etc.
+Easy to navigate, quick load time, best (not all) projects, about me section, contact information
+Social: Create a LinkedIn profile
+Point to ICC resources
