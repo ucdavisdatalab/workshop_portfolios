@@ -14,18 +14,27 @@ A digital portfolio is a tool that you can use in addition to your CV or resume 
 
 *This will probably expand into different sections*
 
+### Plan your Portfolio
 * What is your goal? What story to you want to tell? What impression/feeling/etc. do you want to inspire in the people viewing your portfolio?
 * Which skills and projects do you want to highlight? Which skills and projects help you tell your story to the viewer?
 * Which platform should you use? The platform you chose can serve as another way to highlight a skill you have or an opportunity to develop a skill you want to gain (HTML, Shiny, Wordpress, GitHub Pages, etc.)
 * Style considerations - does your platform have themes that you can use to your advantage? For example, WordPress has some free templates that are specifically geared towards portfolios.
 * How can you visually represent the work your are highlighting? If it's a mapping project, an image of the map is an obvious choice. If it's code, think about an image that helps tell the story. Maybe its a visualization (graph or diagram) from the analysis? Maybe it's a workflow diagram you drew?
 * Links to public repositories like GitHub
-* Making your portfolio public
-* Getting feedback
 
-You contact information:
-Name
-Email 
-ORCid or other identifiers
-Links to public profiles, like your GitHub profile, Google Scholar, Linkedin, or other quasi-social media for work
-Work-related social media account
+### Gather Contact Information:
+
+There are many things you could include. Choose how you want to engage with others.
+
+Some options include:
+
+* Name
+* Email 
+* ORCid or other identifiers
+* Links to public profiles, like your GitHub profile, Google Scholar, Linkedin, or other quasi-social media for work
+* Work-related social media account
+
+
+
+## Going Public
+
