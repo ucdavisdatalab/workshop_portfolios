@@ -5,9 +5,9 @@ This workshop is currently in development.
 
 ## Introducing Digital Portfolios
 
-A digital portfolio is an electronic repository of examples of your work. Typically, these take the form of a website that is styled specifically to highlight the kind of work you want to showcase.
+A digital portfolio is an electronic collection of examples of your work. Typically, these take the form of a website that is styled specifically to highlight the kind of work you want to showcase.
 
-A digital portfolio is a tool that you can use in addition to your CV or resume to communicate your skills to potential collaborators or employers.
+A digital portfolio is a tool that you can use in addition to your CV or resume to demonstrate your skills to potential collaborators or employers.
 
 
 ## Things to Consider

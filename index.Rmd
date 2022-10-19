@@ -3,6 +3,8 @@ title: Developing Your Data Science Portfolio
 author: Michele Tobias
 date: "`r Sys.Date()`"
 
+lang: en-us
+
 github-repo: ucdavisdatalab/workshop_portfolios
 url: "https://ucdavisdatalab.github.io/workshop_portfolios/"
 
