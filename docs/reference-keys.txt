@@ -1,6 +1,7 @@
 workshop-description
 learning-objectives
 prerequisites
+prepare
 introduction
 work-in-progress
 introducing-digital-portfolios
