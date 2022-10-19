@@ -6,3 +6,6 @@ introduction
 work-in-progress
 introducing-digital-portfolios
 things-to-consider
+plan-your-portfolio
+gather-contact-information
+going-public
