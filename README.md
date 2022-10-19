@@ -65,8 +65,7 @@ _Winter 2023_
 _Instructor: Michele Tobias <<mmtobias@ucdavis.edu>>_  
 _Maintainer: Michele Tobias <<mmtobias@ucdavis.edu>>_ 
 
-* [Reader](https://ucdavisdatalab.github.io/workshop_portfolios
-/)
+* [Reader](https://ucdavisdatalab.github.io/workshop_portfolios/)
 * [Event Page](https://datalab.ucdavis.edu/eventscalendar/YOUR_EVENT/)
 
 
