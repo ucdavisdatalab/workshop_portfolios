@@ -1,6 +1,6 @@
 ---
 title: Developing Your Data Science Portfolio
-author: Michele Tobias
+author: [Michele Tobias, Pamela Reynolds]
 date: "`r Sys.Date()`"
 
 lang: en-us
@@ -35,7 +35,14 @@ output:
 A digital (online) portfolio complements you CV and other application materials on the job market or in grant applications and demonstrates your skills to potential collaborators and employers.  In this workshop, we will discuss reasons you want to create a digital portfolio of your work, methods for creating it, and considerations for carefully curating and presenting your work in an engaging manner.	
 
 ## Learning Objectives
-Participants will learn reasons to create a digital portfolio, methods for creating and curating their digtial portofolio, and see examples of digital portfolios for programmers, data scientists, and geospatial scientists.	
+Participants will 
+* learn reasons to create a digital portfolio
+* set a clear goal for their portfolio
+* understand methods for creating and curating their digital portfolio
+* be able to articulate reasons to choose a particular platform to host their portfolio
+* know how and when to get feedback
+* learn about sharing their portfolio
+
 
 ## Prerequisites
 There are no prerequisites for this workshop. Recommended: Please have an updated copy of your CV or resume for reference and a list of recent projects or skills (if applicable). Participants should have access to a web browser (for example, Chrome or Firefox).

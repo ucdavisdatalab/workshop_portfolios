@@ -10,6 +10,8 @@ The platform you chose can serve as another way to highlight a skill you have or
 
 Style considerations: does your platform have themes that you can use to your advantage? For example, WordPress has some free templates that are specifically geared towards portfolios. If you plan to use images, does the platform represent images in an engaging way? 
 
+How will you maintain it? How often will you be updating it?
+
 
 ## Platform Types
 

@@ -1,10 +1,32 @@
 # Setting Your Goals
 
-What is the purpose of your portfolio? 
-What jobs are you applying to?
-What skills do you want to highlight?
-Have you done an “informational interview” and looked at portfolios in your domain?
-What technologies are comfortable with already? This is a great excuse to learn new skills!
-How will you maintain it? How often will you be updating it?
-ACTIVITY 1 (Introspective; paste it into the chat): write down 3-5 personal “goals”
-	1-2 examples? Like: I can use R to clean data, write a model, and plot results.
+Every portfolio should have a goal or a purpose. What should the viewer learn about you and your work? What do you want to demonstrate?
+
+A portfolio isn't a CV. It shouldn't be a catalog of everything you have ever done, but rather, it should be a collection of your best work. But most of all, it should communicate something about you to the viewer.
+
+Yes, your overall goal for this process is probably to get a job, but that's not exactly what we mean.  
+
+A clear goal should be achievable and specific. Below are some examples of achievable, specific goals:
+* Demonstrate my coding skills in Python
+* Illustrate my data visualization skills
+* Showcase my data science ability with respect to my domain (like Biology, Hydrology, or English)
+* Highlight my ability to complete projects
+* Show that I can collaborate with several people
+* Demonstrate my breadth of skills
+* Highlight the kinds of projects I want to work on in the future
+* Demonstrate that I can use R to clean data, write a model, and plot results.
+
+Here are some questions and tasks that might help you define your goals: 
+* After viewing your portfolio, what impression do you want the viewer to have of you and your skills?
+* What is the purpose of your portfolio? 
+* What story to you want to tell?
+* What jobs are you applying to?
+* What skills do you want to highlight?
+* What skills do you want to learn?
+* Review some portfolios from people in your domain. What do you think their portfolios communicate?
+
+
+
+ACTIVITY 1 (Introspective; paste it into the chat): write down 1-2  goals for your portfolio. What do you want the viewer to learn about you?
+	
+	

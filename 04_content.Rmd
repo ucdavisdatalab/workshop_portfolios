@@ -20,6 +20,10 @@ Point to ICC resources
 
 How can you visually represent the work your are highlighting? If it's a mapping project, an image of the map is an obvious choice. If it's code, think about an image that helps tell the story. Maybe its a visualization (graph or diagram) from the analysis? Maybe it's a workflow diagram you drew?
 
+* Links to public repositories like GitHub
+
+* Which skills and projects do you want to highlight? Which skills and projects help you tell your story to the viewer?
+
 ### Gather Contact Information:
 
 There are many things you could include. Choose how you want to engage with others.

@@ -1,7 +1,5 @@
 # Introduction
 
-## WORK IN PROGRESS
-This workshop is currently in development. 
 
 ## Introducing Digital Portfolios
 
@@ -9,7 +7,9 @@ A digital portfolio is an electronic collection of examples of your work. It is 
 
 You might think of your portfolio as public evidence of your data science skills.
 
-For example, your portfolio might features your code (including documentation) and writing samples to show your ability to communicate effectively about data. You might use the text to illustrate how you approach problem-solving. 
+For example, your portfolio might feature your code (including documentation) and writing samples to show your ability to communicate effectively about data. You might use the text to illustrate how you approach problem-solving. 
+
+
 
 ## Approach
 
@@ -17,24 +17,20 @@ In this workshop, we will approach creating a digital data science portfolio thr
 
 Our suggested workflow is:
 
-1. Set your goals for your portfolio.
-2. Decide on a few project to include. (You can expand later.)
-3. Decide on a platform for your portfolio.
-4. Build a draft.
-5. Get and implement feedback.
-6. Share.
+1. Set your goals for your portfolio
+2. Decide on a few project to include (you can expand later)
+3. Decide on a platform for your portfolio
+4. Build a draft
+5. Get and implement feedback
+6. Share
+
+In this workshop, we'll focus on the first three steps. By the end of the workshop, you'll have a solid plan for how to build your portfolio which you can then implement when you have more focused time to work.
 
 
 
-## Things to Consider
 
-*This will probably expand into different sections*
 
-### Plan your Portfolio
-* What is your goal? What story to you want to tell? What impression/feeling/etc. do you want to inspire in the people viewing your portfolio?
-* Which skills and projects do you want to highlight? Which skills and projects help you tell your story to the viewer?
 
-* Links to public repositories like GitHub
 
 
 
