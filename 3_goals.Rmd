@@ -1,0 +1,10 @@
+# Setting Your Goals
+
+What is the purpose of your portfolio? 
+What jobs are you applying to?
+What skills do you want to highlight?
+Have you done an “informational interview” and looked at portfolios in your domain?
+What technologies are comfortable with already? This is a great excuse to learn new skills!
+How will you maintain it? How often will you be updating it?
+ACTIVITY 1 (Introspective; paste it into the chat): write down 3-5 personal “goals”
+	1-2 examples? Like: I can use R to clean data, write a model, and plot results.

@@ -1,4 +1,109 @@
-# Examples
+# Platforms
+
+There are many platforms available to serve as a home for your digital portfolio. But which platform should you use? Let's take a look at some of the categories and options. Please note that new tools become available quite frequently, so this list is not intended to be comprehensive.
+
+## Platform Considerations
+
+First, there are some things to consider.
+
+The platform you chose can serve as another way to highlight a skill you have or an opportunity to develop a skill you want to gain, for example, HTML, Shiny, Wordpress, or GitHub Pages.
+
+Style considerations: does your platform have themes that you can use to your advantage? For example, WordPress has some free templates that are specifically geared towards portfolios. If you plan to use images, does the platform represent images in an engaging way? 
+
+
+## Platform Types
+
+### Website Builders
+
+Website Builders are online tools that help you build a website. They typically allow for easy integration of pre-built styles (and changing between styles) and have some kind of content management system to help you keep track of pages and posts. They also usually include a free service tier and can make buying and using a custom domain (website URL) straight forward at minimal yearly cost.
+
+Website builders are good for both novices and pros. Just because you can write HTML and CSS doesn't mean you want to do this on every project. For beginners, this option makes a professional-looking website quickly without a lot of hassle.
+
+Be sure to explore the theme options for your builder of choice. Some themes are free, but others may have a fee to use. Often, you'll find themes that are specifically built for portfolios, but blog themes may also do the job well.
+
+Website Builders include:
+* Wix
+* Wordpress
+* Weebly
+
+#### Pros& Cons:
+
+Pros:
+* Graphical user interface, no coding
+* Content manager
+* Pre-built styles, and easy to change styles
+* Multiple pages are possible
+* Looks professional quickly
+
+Cons:
+* Customizing can be complicated
+
+
+
+### Build Your Own Website
+
+If you want to demonstrate or develop your skills in web development, you should consider building your own website.
+
+To make you own website, you'll need the following:
+
+#### Content
+
+You can handle content in a couple of ways:
+
+hand-coded - edit HTML + CSS (and probably javascript) directly
+
+static generator - edit HTML or Markdown directly - Jekyll, Sphinx
+
+content manager - write content in a graphical user interface 
+	pre-built - ionos, dreamhost (log-in and pick the software you want them to run for you)
+	build-your-own - using AWS Lightsail, Digital Ocean Droplets
+
+
+
+#### Hosting Services
+
+static hosting server - github pages 
+
+dynamic hosting service - AWS Lightsail, Digital Ocean Droplets
+
+
+#### Domain (optional)
+
+A domain is the base URL for your collection of webpages. And example of a domain is ucdavis.edu  You can purchase a custom domain to make your website more memorable. Many hosting service offer domain purchasing and registration as an add-on service.
+
+#### Pros& Cons:
+
+Pros:
+* Control over every aspect of the site
+* Demonstrate your web skills effectively
+
+Cons:
+* You are responsible for security and accessibility updates
+
+
+### Minimal Effort
+
+These options are a good start, but you probably want to develop a more creative portfolio that expresses your work in an engaging way.
+
+**LinkedIn Profile**
+Your LinkedIn Profile can serve as a portfolio of sorts, especially if you use the "Featured" section to link to projects you want to highlight. This is a good start, but doesn't have the same impact as a well thought out, personal portfolio. Do both, and then add the link for your portfolio to the "Featured" section of your LinkedIn profile.
+
+**GitHub Profile Repository**
+Another fairly minimal option for producing a bare-bones profile is to create a GitHub repository with a README file that links to your other repositories with some text for context. This is another nice way to get started, but it might leave an underwhelming impression on potential employers.
+
+
+#### Pros& Cons:
+
+Pros:
+* Can be used in conjunction with a full portfolio
+* A good starting point to building out a full portfolio
+
+Cons:
+* Might be construed as lazy if a full portfolio is called for
+* Less impact than a full portfolio
+
+
+## Examples
 
 Research Data Scientist
 Ryan Peek

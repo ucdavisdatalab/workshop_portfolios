@@ -1,4 +1,4 @@
-# Components of “Data Science” Portfolio
+# Content
 
 Resume/CV
 Explain differences
@@ -17,3 +17,17 @@ GitHub Pages, Wordpress, etc. etc.
 Easy to navigate, quick load time, best (not all) projects, about me section, contact information
 Social: Create a LinkedIn profile
 Point to ICC resources
+
+How can you visually represent the work your are highlighting? If it's a mapping project, an image of the map is an obvious choice. If it's code, think about an image that helps tell the story. Maybe its a visualization (graph or diagram) from the analysis? Maybe it's a workflow diagram you drew?
+
+### Gather Contact Information:
+
+There are many things you could include. Choose how you want to engage with others.
+
+Some options include:
+
+* Name
+* Email 
+* ORCid or other identifiers
+* Links to public profiles, like your GitHub profile, Google Scholar, Linkedin, or other quasi-social media for work
+* Work-related social media account
