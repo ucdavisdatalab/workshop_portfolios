@@ -7,6 +7,7 @@ A portfolio isn't a CV. It shouldn't be a catalog of everything you have ever do
 Yes, your overall goal for this process is probably to get a job, but that's not exactly what we mean.  
 
 A clear goal should be achievable and specific. Below are some examples of achievable, specific goals:
+
 * Demonstrate my coding skills in Python
 * Illustrate my data visualization skills
 * Showcase my data science ability with respect to my domain (like Biology, Hydrology, or English)
@@ -18,6 +19,7 @@ A clear goal should be achievable and specific. Below are some examples of achie
 * Expand my collaboration network by demonstrating my skills
 
 Here are some questions and tasks that might help you define your goals: 
+
 * After viewing your portfolio, what impression do you want the viewer to have of you and your skills?
 * What is the purpose of your portfolio? 
 * What story to you want to tell?

@@ -20,6 +20,7 @@ The projects you list should support the goal you have for your portfolio. If my
 This section is also mandatory. You want people to know who you are so they can contact you if they are interested in your work. What information you provide is up to you. How do you decide? Reflect back on your goals. What contact information will help you achieve the goal for your portfolio?
 
 Here are some types of contact information to consider:
+
 * Name - the name you use on job applications 
 * Other names you are well-known by (IRC handle, Discord handle)
 * Email Address

@@ -24,6 +24,7 @@ Website builders are good for both novices and pros. Just because you can write 
 Be sure to explore the theme options for your builder of choice. Some themes are free, but others may have a fee to use. Often, you'll find themes that are specifically built for portfolios, but blog themes may also do the job well.
 
 Website Builders include:
+
 * Wix
 * Wordpress
 * Weebly
@@ -31,6 +32,7 @@ Website Builders include:
 #### Pros& Cons:
 
 Pros:
+
 * Graphical user interface, no coding
 * Content manager
 * Pre-built styles, and easy to change styles
@@ -76,10 +78,12 @@ A domain is the base URL for your collection of webpages. And example of a domai
 #### Pros& Cons:
 
 Pros:
+
 * Control over every aspect of the site
 * Demonstrate your web skills effectively
 
 Cons:
+
 * You are responsible for security and accessibility updates
 
 
@@ -97,10 +101,12 @@ Another fairly minimal option for producing a bare-bones profile is to create a 
 #### Pros& Cons:
 
 Pros:
+
 * Can be used in conjunction with a full portfolio
 * A good starting point to building out a full portfolio
 
 Cons:
+
 * Might be construed as lazy if a full portfolio is called for
 * Less impact than a full portfolio
 
