@@ -3,14 +3,12 @@ learning-objectives
 prerequisites
 prepare
 introduction
-work-in-progress
 introducing-digital-portfolios
 approach
-things-to-consider
-plan-your-portfolio
 setting-your-goals
 content
-gather-contact-information
+projects
+contact-information
 platforms
 platform-considerations
 platform-types
@@ -24,7 +22,7 @@ pros-cons-1
 minimal-effort
 pros-cons-2
 examples
-plan-your-portfolio-1
+plan-your-portfolio
 getting-feedback
 share
 time-to-work
