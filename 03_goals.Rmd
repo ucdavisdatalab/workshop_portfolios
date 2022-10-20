@@ -14,7 +14,8 @@ A clear goal should be achievable and specific. Below are some examples of achie
 * Show that I can collaborate with several people
 * Demonstrate my breadth of skills
 * Highlight the kinds of projects I want to work on in the future
-* Demonstrate that I can use R to clean data, write a model, and plot results.
+* Demonstrate that I can use R to clean data, write a model, and plot results
+* Expand my collaboration network by demonstrating my skills
 
 Here are some questions and tasks that might help you define your goals: 
 * After viewing your portfolio, what impression do you want the viewer to have of you and your skills?
@@ -27,6 +28,6 @@ Here are some questions and tasks that might help you define your goals:
 
 
 
-ACTIVITY 1 (Introspective; paste it into the chat): write down 1-2  goals for your portfolio. What do you want the viewer to learn about you?
+**ACTIVITY 1:** Write down 1-2  goals for your portfolio. What do you want the viewer to learn about you? Share your goals in the chat.
 	
 	
