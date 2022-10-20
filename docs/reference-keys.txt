@@ -2,6 +2,7 @@ workshop-description
 learning-objectives
 prerequisites
 prepare
+additional-resources
 introduction
 work-in-progress
 introducing-digital-portfolios
@@ -9,3 +10,9 @@ things-to-consider
 plan-your-portfolio
 gather-contact-information
 going-public
+components-of-data-science-portfolio
+examples
+plan-your-portfolio-1
+getting-feedback
+going-public-1
+time-to-work
