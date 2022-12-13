@@ -1,8 +1,25 @@
 # Getting Feedback
 
-Identify your trusted circle and ask for a friendly review
-Are you presenting yourself well?
-Are the project(s) well described?
-Do your skills come across?
-Are there any other projects you should include?
-Expectations (feedback, not code review!)
+## Asking for Feedback
+
+After you have implemented your plan and have a solid draft of your digital online portfolio, the next step is to solicit feedback from a few trusted colleagues. Ask for reviews of your portfolio from friends as well as people who know your industry well. 
+
+Getting feedback at this stage will help you tailor the impression your portfolio makes as well as help you uncover mistakes or misunderstandings before you release your portfolio to a wider audience.
+
+Define the areas you want feedback in and be clear about the extent of the review that will help you. Discuss the goals of your portfolio with your reviewers. Consider asking for feedback in the following areas:
+
+* Does the portfolio make a good impression?
+* Are the project(s) well described?
+* What skills does the reviewer perceive?
+* Is there anything missing? Are there any other projects you should include? Is there a skill you need to add?
+* Does my portfolio reflect the goals you set?
+
+## Using Feedback
+
+Receiving feedback can be difficult, especially when it pertains to a project you have worked hard on, like developing a digital portfolio. Try to remember that the feedback you receive is about the product and that your reviewers want to help. **Ground your decisions about using feedback in the goals you set for your portfolio.**
+
+Deciding which comments to take action on can also be difficult, particularly if you get conflicting comments. One reviewer might appreciate the template you have chosen while another may find it distracting. Consider the feedback as a whole - do all of your reviewers make similar comments or is one an outlier? And consider the background of the person making the comments. Comments from people in your field might need more weight than your life-long friend who works in a completely different industry, although both perspectives can be valuable. Are the comments constructive and something you can turn into an action? Ask for clarification as needed and have a discussion with your reviewers. 
+
+You may need to get creative with how you address a given comment. For example, a comment like "the font is too small" might not actually be about the font size, but the readability of the site. This comment might be better addressed by changing the font to one that is easier to read or changing the background color of your web page to increase the contrast between the font and the background.
+
+
