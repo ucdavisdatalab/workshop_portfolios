@@ -1,6 +1,15 @@
 # Additional Resources
 
-Documentation workshops
+UC Davis DataLab Resources
+
+* [DataLab's ReadMe, Write Me! Workshop](https://datalab.ucdavis.edu/eventscalendar/readme-write-me/): documentation and metadata
+* [DataLab Office Hours](https://datalab.ucdavis.edu/office-hours/)
+
 GitHub Pages tutorials
-ICC Resources (from resume to interview and beyond)
-Office Hours
+
+* [GitHub Pages Website](https://pages.github.com/): getting started, tutorials, how to customize your site
+
+UC Davis Internship & Career Center Resources (from resume to interview and beyond)
+
+* [UC Davis ICC Resume & CV Resources](https://icc.ucdavis.edu/materials/resume)
+* [UC Davis ICC Portfolio Rsources](https://icc.ucdavis.edu/materials/portfolios)
