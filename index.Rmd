@@ -46,6 +46,6 @@ Participants will
 
 
 ## Prerequisites
-There are no prerequisites for this workshop. 
+Participants should have access to a web browser (for example, Chrome or Firefox).
 
-Recommended: Please have an updated copy of your CV or resume for reference and a list of recent projects or skills (if applicable). Participants should have access to a web browser (for example, Chrome or Firefox).
+See the next section ([Prepare](https://ucdavisdatalab.github.io/workshop_portfolios/prepare.html)) for recommended preparation for this workshop.
