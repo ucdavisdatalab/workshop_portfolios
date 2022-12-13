@@ -9,6 +9,9 @@ setting-your-goals
 content
 projects
 contact-information
+about
+skills
+publications
 platforms
 platform-considerations
 platform-types
@@ -21,9 +24,13 @@ domain-optional
 pros-cons-1
 minimal-effort
 pros-cons-2
-examples
+examples-of-data-science-portfolios
 plan-your-portfolio
+develop-your-plan
+strategies-for-projects-that-cant-be-shared
 getting-feedback
+asking-for-feedback
+using-feedback
 share
 time-to-work
 additional-resources
