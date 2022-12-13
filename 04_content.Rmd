@@ -9,7 +9,7 @@ Project descriptions could be self-contained or they can link out to other websi
 
 Consider including visuals here. If the project involves data visualization, such as a graph, workflow diagram, or map, you might choose that image as your visual. If the project was purely code, you could consider a stock image, just be aware of the image's license and only use images that are open licensed or you have permission to use.
 
-The projects you list should support the goal you have for your portfolio. If my goal is to demonstrate my data visualization skills, I could include code that produces a visualization, but I wouldn't include a script that cleans data and doesn't produce a visualization. If I feel like that cleaning script is valuable in telling my story, maybe I need to redefine my goals for this portfolio. I might want to consider having sections for different kinds of projects.
+The projects you list should support the goal you have for your portfolio. For example, if my goal is to demonstrate my data visualization skills, I could include code that produces a visualization, but I wouldn't include a script that cleans data and doesn't produce a visualization. If I feel like that cleaning script is valuable in telling my story, maybe I need to redefine my goals for this portfolio. I might want to consider having sections for different kinds of projects.
 
 
 **ACTIVITY 2:** Pick 3 projects you want to include in your portfolio. How do each of these support the goals of your portfolio?
@@ -28,7 +28,7 @@ Here are some types of contact information to consider:
 * [Google Scholar](https://scholar.google.com/) (if academic)
 * Other academic profiles ([Academia.edu](https://www.academia.edu/), [Kudos](https://www.growkudos.com/), [Figshare](https://figshare.com/))
 * [GitHub](https://github.com/) Profile
-* Other tech community profiles ([Stack Exchange](https://stackexchange.com/), [Stack Overflow](https://stackoverflow.com/), [Reddit](https://www.reddit.com/)
+* Other tech community profiles ([Stack Exchange](https://stackexchange.com/), [Stack Overflow](https://stackoverflow.com/), [Reddit](https://www.reddit.com/))
 * [LinkedIn](https://www.linkedin.com) Profile
 * Website
 * Work-related social media accounts that you use to represent yourself professionally (Twitter, Instagram, TikTok, YouTube, etc.)
