@@ -33,13 +33,14 @@ Website Builders include:
 
 Pros:
 
-* Graphical user interface, no coding
+* Graphical user interface, no coding is necessary
 * Content manager
 * Pre-built styles, and easy to change styles
 * Multiple pages are possible
 * Looks professional quickly
 
 Cons:
+
 * Customizing can be complicated
 
 
