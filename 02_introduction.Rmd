@@ -18,7 +18,7 @@ In this workshop, we will approach creating a digital data science portfolio thr
 Our suggested workflow is:
 
 1. Set your goals for your portfolio
-2. Decide on a few project to include (you can expand later)
+2. Decide on a few projects to include (you can expand later)
 3. Decide on a platform for your portfolio
 4. Build a draft
 5. Get and implement feedback
