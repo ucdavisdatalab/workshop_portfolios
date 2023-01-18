@@ -13,3 +13,8 @@ UC Davis Internship & Career Center Resources (from resume to interview and beyo
 
 * [UC Davis ICC Resume & CV Resources](https://icc.ucdavis.edu/materials/resume)
 * [UC Davis ICC Portfolio Rsources](https://icc.ucdavis.edu/materials/portfolios)
+
+Other Resources:
+
+* Kate Berg's presentation [Building Your Professional GIS Portfolio](https://www.youtube.com/watch?v=wBP-s4fP5uQ) for URISA
+* {Free Datasets](https://www.dataquest.io/blog/free-datasets-for-projects/) to use in projects for your portfolio

@@ -1,6 +1,6 @@
 # Content
 
-A good portfolio communicates and demonstrates your skills to the viewer. How you do that is something of a creative endeavor. We'll discuss some of the sections and information you could include, but what you include is up to you. You should not try to include everything, but rather pick the information that supports your goal. Every portfolio needs a projects and a contact information section, but the rest is up to you.
+A good portfolio communicates and demonstrates your skills to the viewer. How you do that is something of a creative endeavor. We'll discuss some of the sections and information you could include, but what you include is up to you. You should not try to include everything, but rather pick the information that supports your goal. Every portfolio needs a **Projects** and a **Contact Information** section, but the rest is up to you.
 
 ## Projects
 The projects section is the heart of your portfolio and should appear in every portfolio. Here, you will provide a curated collection of projects you want to highlight. 
