@@ -11,6 +11,8 @@ Consider including visuals here. If the project involves data visualization, suc
 
 The projects you list should support the goal you have for your portfolio. For example, if my goal is to demonstrate my data visualization skills, I could include code that produces a visualization, but I wouldn't include a script that cleans data and doesn't produce a visualization. If I feel like that cleaning script is valuable in telling my story, maybe I need to redefine my goals for this portfolio. I might want to consider having sections for different kinds of projects.
 
+**IDEA:** Shelby Guercio separates her [portfolio](https://www.shelbyguercio.com/)'s projects into categories based on the type of project.
+
 
 **ACTIVITY 2:** Pick 3 projects you want to include in your portfolio. How do each of these support the goals of your portfolio?
 
@@ -40,7 +42,15 @@ The about section is the place to describe yourself, your background, and to giv
 
 ## Skills
 
+Just like you might have on your CV, you can have a section where you list your skills.
+
+**IDEA:** Consider organizing your portfolio by this list and linking each skill to that section of your website. Some website tools (particularly with content managers like Wordpress) will allow you to tag posts with keywords and then link to a search for that keyword.
+
 ## Publications
+
+Create a list of your publications. Ideally, you can also link to the download site for each paper online to facilitate finding those papers. 
+
+**IDEA:** Consider linking to your contact info page so people can easily to contact you about your papers.
 
 
 
