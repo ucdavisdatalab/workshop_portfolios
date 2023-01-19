@@ -19,7 +19,7 @@ How will you maintain it? How often will you be updating it?
 
 ### Website Builders
 
-Website Builders are online tools that help you build a website. They typically allow for easy integration of pre-built styles (and changing between styles) and have some kind of content management system to help you keep track of pages and posts. They also usually include a free service tier and can make buying and using a custom domain (website URL) straight forward at minimal yearly cost.
+Website Builders are online tools that help you build a website through an online graphical user interface. They typically allow for easy integration of pre-built styles (and changing between styles) and have some kind of content management system to help you keep track of pages and posts. They also usually include a free service tier and can make buying and using a custom domain (website URL) straight forward at minimal yearly cost.
 
 Website builders are good for both novices and pros. Just because you can write HTML and CSS doesn't mean you want to do this on every project. For beginners, this option makes a professional-looking website quickly without a lot of hassle.
 
@@ -33,17 +33,13 @@ Website Builders include:
 
 #### Pros& Cons:
 
-Pros:
-
-* Graphical user interface, no coding is necessary
-* Content manager
-* Pre-built styles, and easy to change styles
-* Multiple pages are possible
-* Looks professional quickly
-
-Cons:
-
-* Customizing can be complicated
+| Pros:                  | Cons:              |
+|------------------------|-------------------:|
+| Graphical user interface, no coding is necessary | Customizing can be complicated |
+| Content manager | |
+| Pre-built styles, and easy to change styles | |
+| Multiple pages are possible | |
+| Looks professional quickly | |
 
 
 
@@ -124,9 +120,13 @@ Below are some examples of portfolios of people working in Data Science related 
 
 Research Data Scientist
 
-Ryan Peek
+Ryan Peek - combines a blog and project examples https://ryanpeek.org/
 
-Arthur?
+Arthur - good straight forward example: http://arthurkoehl.com/ 
+
+Samuel Pizelo - https://www.samuelpizelo.com/  simple list of projects surrounded by context
+
+Jared Joseph - https://jnjoseph.com/ showcases visualization tech well, using the website itself to underscore those skills
 
 Taylor Retier
 
@@ -140,6 +140,6 @@ CalMatters folks
 
 Geospatial
 
-Michele
+Michele Tobias - example of a very tailored purpose: https://micheletobias.github.io/maps/
 
 Web Dev
