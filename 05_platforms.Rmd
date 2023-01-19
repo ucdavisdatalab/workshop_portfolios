@@ -33,7 +33,7 @@ Website Builders include:
 
 
 | Pros:                  | Cons:              |
-|------------------------|-------------------:|
+|------------------------|--------------------|
 | Graphical user interface, no coding is necessary | Customizing can be complicated |
 | Content manager | |
 | Pre-built styles, and easy to change styles | |
@@ -76,7 +76,7 @@ Hosting services provide the physical equipment and maintenance to make your web
 A domain is the base URL for your collection of webpages. And example of a domain is `ucdavis.edu`  You can purchase a custom domain to make your website more memorable, but is not necessary. Many hosting service offer domain purchasing and registration as an add-on service.
 
 | Pros:                  | Cons:              |
-|------------------------|-------------------:|
+|------------------------|--------------------|
 | Control over every aspect of the site | You are often responsible for security and accessibility updates|
 | Demonstrate your web skills effectively | |
 
@@ -98,7 +98,7 @@ Another fairly minimal option for producing a bare-bones profile is to create a 
 
 
 | Pros:                  | Cons:              |
-|------------------------|-------------------:|
+|------------------------|--------------------|
 | Can be used in conjunction with a full portfolio | Might be construed as lazy if a full portfolio is called for |
 | A good starting point to building out a full portfolio | Less impact than a full portfolio |
 
