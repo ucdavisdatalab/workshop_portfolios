@@ -31,7 +31,6 @@ Website Builders include:
 * Wordpress
 * Weebly
 
-#### Pros& Cons:
 
 | Pros:                  | Cons:              |
 |------------------------|-------------------:|
@@ -49,97 +48,73 @@ If you want to demonstrate or develop your skills in web development, you should
 
 To make you own website, you'll need the following:
 
-#### Content
+**Content**
 
 You can handle content in a couple of ways:
 
-* hand-coded - edit HTML + CSS (and probably javascript) directly
+* Hand-coded: edit HTML + CSS (and probably javascript) directly
 
-* static generator - edit HTML or Markdown directly - Jekyll, Sphinx
+* Static generator: edit HTML or Markdown directly and generate the website with tools like Jekyll or Sphinx
 
-* content manager - write content in a graphical user interface with the following options:
-	- pre-built: ionos, dreamhost (log-in and pick the software you want them to run for you)
-	- build-your-own: using AWS Lightsail, Digital Ocean Droplets
+* Content manager: write content in a graphical user interface with the following options:
+	- pre-built: log-in and pick the software you want them to run for you such as ionos, dreamhost, etc.
+	- build-your-own: using AWS Lightsail, Digital Ocean Droplets. etc.
 
 
 
-#### Hosting Services
+**Hosting Services**
 
 Hosting services provide the physical equipment and maintenance to make your website visible on the internet. Options include:
 
-* static hosting server: examples include github pages 
+* Static hosting server: examples include github pages 
 
-* dynamic hosting service: examples include AWS Lightsail, Digital Ocean Droplets
-
-
-#### Domain (optional)
-
-A domain is the base URL for your collection of webpages. And example of a domain is ucdavis.edu  You can purchase a custom domain to make your website more memorable, but is not necessary. Many hosting service offer domain purchasing and registration as an add-on service.
-
-#### Pros& Cons:
-
-Pros:
-
-* Control over every aspect of the site
-* Demonstrate your web skills effectively
-
-Cons:
-
-* You are responsible for security and accessibility updates
+* Dynamic hosting service: examples include AWS Lightsail, Digital Ocean Droplets
 
 
-### Minimal Effort
+**Domain** (optional)
+
+A domain is the base URL for your collection of webpages. And example of a domain is `ucdavis.edu`  You can purchase a custom domain to make your website more memorable, but is not necessary. Many hosting service offer domain purchasing and registration as an add-on service.
+
+| Pros:                  | Cons:              |
+|------------------------|-------------------:|
+| Control over every aspect of the site | You are often responsible for security and accessibility updates|
+| Demonstrate your web skills effectively | |
+
+
+
+### Minimal Effort Options
 
 The options we will discuss in this section are a way to get started in a relatively shot period of time, but you probably want to develop a more creative portfolio that expresses your work in an engaging way. 
 
 **LinkedIn Profile**
 
-Your LinkedIn Profile can serve as a portfolio of sorts, especially if you use the "Featured" section to link to projects you want to highlight. This is a good start, but doesn't have the same impact as a well thought out, personal portfolio. Do both, and then add the link for your portfolio to the "Featured" section of your LinkedIn profile.
+Your LinkedIn Profile can serve as a portfolio of sorts, especially if you use the "Featured" section to link to projects you want to highlight. This is a good start, but doesn't have the same impact as a well thought out, personal portfolio. 
+
+**IDEA:** Do both, and then add the link for your portfolio to the "Featured" section of your LinkedIn profile.
 
 **GitHub Profile Repository**
 
 Another fairly minimal option for producing a bare-bones profile is to create a GitHub repository with a README file that links to your other repositories with some text for context. This is another nice way to get started, but it might leave an underwhelming impression on potential employers.
 
 
-#### Pros& Cons:
-
-Pros:
-
-* Can be used in conjunction with a full portfolio
-* A good starting point to building out a full portfolio
-
-Cons:
-
-* Might be construed as lazy if a full portfolio is called for
-* Less impact than a full portfolio
+| Pros:                  | Cons:              |
+|------------------------|-------------------:|
+| Can be used in conjunction with a full portfolio | Might be construed as lazy if a full portfolio is called for |
+| A good starting point to building out a full portfolio | Less impact than a full portfolio |
 
 
 ## Examples of Data Science Portfolios
 
 Below are some examples of portfolios of people working in Data Science related areas. Their portfolios are hosted on a number of different platforms.
 
-Research Data Scientist
+[Arthur Koehl](http://arthurkoehl.com/) has excellent visuals and descriptive text and uses a simple, but highly effective structure. 
 
-Ryan Peek - combines a blog and project examples https://ryanpeek.org/
+[Michele Tobias](https://micheletobias.github.io/maps/) has a portfolio for  tailored purpose: to share geospatial projects that involve coding.
 
-Arthur - good straight forward example: http://arthurkoehl.com/ 
+[Ryan Peek](https://ryanpeek.org/) combines a blog and project examples. 
 
-Samuel Pizelo - https://www.samuelpizelo.com/  simple list of projects surrounded by context
+[Samuel Pizelo](https://www.samuelpizelo.com/) has simple list of projects supported by context on the other pages (bio, contact info, teaching, etc.).
 
-Jared Joseph - https://jnjoseph.com/ showcases visualization tech well, using the website itself to underscore those skills
+[Jared Joseph](https://jnjoseph.com/) showcases his visualization skills, using the website design to underscore those skills.
 
-Taylor Retier
 
-Analyst
-
-Data Visualization
-
-Data Journalism
-
-CalMatters folks
-
-Geospatial
-
-Michele Tobias - example of a very tailored purpose: https://micheletobias.github.io/maps/
-
-Web Dev

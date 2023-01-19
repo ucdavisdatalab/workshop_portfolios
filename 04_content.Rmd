@@ -11,7 +11,7 @@ Consider including visuals here. If the project involves data visualization, suc
 
 The projects you list should support the goal you have for your portfolio. For example, if my goal is to demonstrate my data visualization skills, I could include code that produces a visualization, but I wouldn't include a script that cleans data and doesn't produce a visualization. If I feel like that cleaning script is valuable in telling my story, maybe I need to redefine my goals for this portfolio. I might want to consider having sections for different kinds of projects.
 
-**IDEA:** Shelby Guercio separates her [portfolio](https://www.shelbyguercio.com/)'s projects into categories based on the type of project.
+**IDEA:** You might separate projects into categories based on the type of project.
 
 
 **ACTIVITY 2:** Pick 3 projects you want to include in your portfolio. How do each of these support the goals of your portfolio?
