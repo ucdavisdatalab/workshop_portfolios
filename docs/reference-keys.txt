@@ -16,14 +16,8 @@ platforms
 platform-considerations
 platform-types
 website-builders
-pros-cons
 build-your-own-website
-content-1
-hosting-services
-domain-optional
-pros-cons-1
-minimal-effort
-pros-cons-2
+minimal-effort-options
 examples-of-data-science-portfolios
 plan-your-portfolio
 develop-your-plan
