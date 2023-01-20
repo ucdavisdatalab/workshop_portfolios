@@ -1,5 +1,9 @@
 # Additional Resources
 
+```{r, echo=FALSE, fig.alt="Black and white Noun Project Icon showing an astronaut surrounded by planets and stars", out.width="25%"}
+knitr::include_graphics("./images/noun-astronaut-2909362.png")
+```
+
 UC Davis DataLab Resources
 
 * [DataLab's ReadMe, Write Me! Workshop](https://datalab.ucdavis.edu/eventscalendar/readme-write-me/): documentation and metadata
