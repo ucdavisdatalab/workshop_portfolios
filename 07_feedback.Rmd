@@ -1,5 +1,9 @@
 # Getting Feedback
 
+```{r, echo=FALSE, fig.alt="Black and white Noun Project Icon showing two women shaking hands", out.width="25%"}
+knitr::include_graphics("./images/noun-respect-2909352.png")
+```
+
 ## Asking for Feedback
 
 After you have implemented your plan and have a solid draft of your digital online portfolio, the next step is to solicit feedback from a few trusted colleagues. Ask for reviews of your portfolio from friends as well as people who know your industry well. 
@@ -13,6 +17,10 @@ Define the areas you want feedback in and be clear about the extent of the revie
 * What skills does the reviewer perceive?
 * Is there anything missing? Are there any other projects you should include? Is there a skill you need to add?
 * Does my portfolio reflect the goals you set?
+
+```{r, echo=FALSE, fig.alt="Black and white Noun Project Icon showing a woman holding a small person in each hand, listening", out.width="25%"}
+knitr::include_graphics("./images/noun-mentor-2909349.png")
+```
 
 ## Using Feedback
 

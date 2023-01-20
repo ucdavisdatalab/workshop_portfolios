@@ -19,7 +19,7 @@ A clear goal for your portfolio should be achievable and specific. Below are som
 * Expand my collaboration network by demonstrating my skills
 
 
-```{r, echo=FALSE, fig.alt="Noun Project Icon showing two people cheering a rocket launch", out.width="25%"}
+```{r, echo=FALSE, fig.alt="Black and white Noun Project Icon showing two people cheering a rocket launch", out.width="25%"}
 knitr::include_graphics("./images/noun-startup-2909309_rocket.png")
 ```
 

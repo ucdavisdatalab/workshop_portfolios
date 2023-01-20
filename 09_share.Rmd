@@ -2,6 +2,9 @@
 
 Once you have completed your portfolio, you are ready to share it with potential employers and your community. Feeling some anxiety over this step is fairly common, so if you're feeling anxious, consider sharing your portfolio in phases starting with the people you are most comfortable with and then expanding as you become more certain that your portfolio represents you well.
 
+```{r, echo=FALSE, fig.alt="Black and white Noun Project Icon showing a woman standing in front of a crowd with one arm raised", out.width="25%"}
+knitr::include_graphics("./images/noun-leadership-2909348.png")
+```
 
 ## Ways to Share
 

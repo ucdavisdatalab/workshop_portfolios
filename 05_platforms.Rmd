@@ -4,6 +4,10 @@ A platform is the online tool that will house your digital portfolio and make it
 
 There are many platforms available to serve as a home for your digital portfolio. But which platform should you use? Let's take a look at some of the categories and options. Please note that new tools become available quite frequently, so this list is not intended to be comprehensive.
 
+```{r, echo=FALSE, fig.alt="Black and white Noun Project Icon showing a woman standing, one arm supports the other as she holds her chin in a thinking pose; a thought bubble with a question is nearby", out.width="25%"}
+knitr::include_graphics("./images/noun-curiosity-2909383.png")
+```
+
 ## Platform Considerations
 
 First, there are some things to consider.
@@ -14,6 +18,9 @@ Style considerations: does your platform have themes that you can use to your ad
 
 How will you maintain it? How often will you be updating it?
 
+```{r, echo=FALSE, fig.alt="Black and white Noun Project Icon showing a woman points to a slide with html code brackets", out.width="25%"}
+knitr::include_graphics("./images/noun-software-engineer-2909346.png")
+```
 
 ## Platform Types
 
@@ -80,11 +87,13 @@ A domain is the base URL for your collection of webpages. And example of a domai
 | Control over every aspect of the site | You are often responsible for security and accessibility updates|
 | Demonstrate your web skills effectively | |
 
+```{r, echo=FALSE, fig.alt="Black and white Noun Project Icon showing a woman gesturing to a pie chart with one section pulled away from the others", out.width="25%"}
+knitr::include_graphics("./images/noun-portfolio-2909344.png")
+```
 
+### Short on Time?
 
-### Minimal Effort Options
-
-The options we will discuss in this section are a way to get started in a relatively short period of time, but you probably want to develop a more creative portfolio that expresses your work in an engaging way. 
+The options we will discuss in this section are a way to get started in a relatively short period of time, but you probably want to develop a more creative portfolio that expresses your work in an engaging way when you have more time to spend. 
 
 **LinkedIn Profile**
 
@@ -100,7 +109,7 @@ Another fairly minimal option for producing a bare-bones profile is to create a 
 | Pros:                  | Cons:              |
 |------------------------|--------------------|
 | Can be used in conjunction with a full portfolio | Less impact than a full portfolio |
-| A good starting point to building out a full portfolio | Might be construed as lazy if a full portfolio is called for |
+| A good starting point to building out a full portfolio | Might reflect negatively on your skills if a full portfolio is called for |
 
 
 

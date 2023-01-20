@@ -1,5 +1,9 @@
 # Examples
 
+```{r, echo=FALSE, fig.alt="Black and white Noun Project Icon showing two women discussing a graph", out.width="25%"}
+knitr::include_graphics("./images/noun-elevator-pitch-2909310.png")
+```
+
 ## Examples of Data Science Portfolios
 
 Below are some examples of portfolios of people working in Data Science related areas. These portfolios are hosted on a number of different platforms and organized to suit the goals of the portfolio.

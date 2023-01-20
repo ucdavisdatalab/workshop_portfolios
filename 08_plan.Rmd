@@ -1,5 +1,9 @@
 # Plan Your Portfolio
 
+```{r, echo=FALSE, fig.alt="Black and white Noun Project Icon showing a lightbulb hovering over three smaller heads which are connected to it with dotted lines", out.width="25%"}
+knitr::include_graphics("./images/noun-brainstorm-2909385.png")
+```
+
 ## Develop Your Plan
 
 Review your CV/resume. 
@@ -24,9 +28,13 @@ What platform would you like to use?
 | Were there any unique situations? |
 | Which components of your portfolio are you most concerned about completing? |
 
+```{r, echo=FALSE, fig.alt="Black and white Noun Project Icon showing three hands stacked on top of each other", out.width="25%"}
+knitr::include_graphics("./images/noun-collaboration-2909353.png")
+```
+
 ## Strategies for Projects that can't be shared
 
-You may not be able to share every important project you've worked on. Whether the data is personally identifiable data (PII), the paper associated with the project is awaiting publication, or the work is a part of a team effort that needs to be shared in another way, you may not be comfortable sharing a certain project on your personal portfolio. You still may want to share the skills you learned working on these kinds of projects in your portfolio, but you'll need to find ways to honor the private aspects of the project.
+Sometimes being a good colleague means you may not be able to share every important project you've worked on. Whether the data is personally identifiable data (PII), the paper associated with the project is awaiting publication, or the work is a part of a team effort that needs to be shared in another way, you may not be comfortable sharing a certain project on your personal portfolio. You still may want to share the skills you learned working on these kinds of projects in your portfolio, but you'll need to find ways to honor the private aspects of the project.
 
 Depending on the nature of the project and the reasons you can't share it in its entirety, here are some potential strategies for including a project of this nature in your portfolio:
 
