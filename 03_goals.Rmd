@@ -18,6 +18,8 @@ A clear goal for your portfolio should be achievable and specific. Below are som
 * Demonstrate that I can use R to clean data, write a model, and plot results
 * Expand my collaboration network by demonstrating my skills
 
+![Noun Project Icon showing two people cheering a rocket launch](./images/noun-startup-2909309_rocket.png)
+
 Here are some questions and tasks that might help you define your goals: 
 
 * After viewing your portfolio, what impression do you want the viewer to have of you and your skills?
