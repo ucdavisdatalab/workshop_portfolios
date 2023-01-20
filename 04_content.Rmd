@@ -38,7 +38,7 @@ Here are some types of contact information to consider:
 * Name - the name you use on job applications 
 * Other names you are well-known by (IRC handle, Discord handle)
 * Email Address
-* [OCRid](https://orcid.org/)
+* [ORCid](https://orcid.org/)
 * [Google Scholar](https://scholar.google.com/) (if academic)
 * Other academic profiles ([Academia.edu](https://www.academia.edu/), [Kudos](https://www.growkudos.com/), [Figshare](https://figshare.com/))
 * [GitHub](https://github.com/) Profile
