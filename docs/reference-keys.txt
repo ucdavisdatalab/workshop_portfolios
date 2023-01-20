@@ -17,7 +17,7 @@ platform-considerations
 platform-types
 website-builders
 build-your-own-website
-minimal-effort-options
+short-on-time
 examples
 examples-of-data-science-portfolios
 getting-feedback
