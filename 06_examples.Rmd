@@ -2,7 +2,7 @@
 
 ## Examples of Data Science Portfolios
 
-Below are some examples of portfolios of people working in Data Science related areas. Their portfolios are hosted on a number of different platforms and organized to suit the goals of the portfolio.
+Below are some examples of portfolios of people working in Data Science related areas. These portfolios are hosted on a number of different platforms and organized to suit the goals of the portfolio.
 
 [Arthur Koehl](http://arthurkoehl.com/) has excellent visuals and descriptive text and uses a simple, but highly effective structure. 
 

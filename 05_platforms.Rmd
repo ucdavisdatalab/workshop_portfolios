@@ -84,7 +84,7 @@ A domain is the base URL for your collection of webpages. And example of a domai
 
 ### Minimal Effort Options
 
-The options we will discuss in this section are a way to get started in a relatively shot period of time, but you probably want to develop a more creative portfolio that expresses your work in an engaging way. 
+The options we will discuss in this section are a way to get started in a relatively short period of time, but you probably want to develop a more creative portfolio that expresses your work in an engaging way. 
 
 **LinkedIn Profile**
 
@@ -99,8 +99,8 @@ Another fairly minimal option for producing a bare-bones profile is to create a 
 
 | Pros:                  | Cons:              |
 |------------------------|--------------------|
-| Can be used in conjunction with a full portfolio | Might be construed as lazy if a full portfolio is called for |
-| A good starting point to building out a full portfolio | Less impact than a full portfolio |
+| Can be used in conjunction with a full portfolio | Less impact than a full portfolio |
+| A good starting point to building out a full portfolio | Might be construed as lazy if a full portfolio is called for |
 
 
 
