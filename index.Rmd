@@ -52,4 +52,4 @@ See the next section ([Prepare](https://ucdavisdatalab.github.io/workshop_portfo
 
 ---
 
-The icons used to illustrate this reader are from [The Noun Project's Iconathon](https://thenounproject.com/iconathon/) icon set, public domain icons produced through a series of design workshops aimed at producing civic minded symbols. In particularly, we focused on the [Redefining Women Icon Set](https://thenounproject.com/browse/collection-icon/redefining-women-95921).
+The icons used to illustrate this reader are from [The Noun Project's Iconathon](https://thenounproject.com/iconathon/) icon set, public domain icons produced through a series of design workshops aimed at producing civic minded symbols. In particular, we focused on the [Redefining Women Icon Set](https://thenounproject.com/browse/collection-icon/redefining-women-95921).
