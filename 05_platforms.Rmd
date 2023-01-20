@@ -103,18 +103,4 @@ Another fairly minimal option for producing a bare-bones profile is to create a 
 | A good starting point to building out a full portfolio | Less impact than a full portfolio |
 
 
-## Examples of Data Science Portfolios
 
-Below are some examples of portfolios of people working in Data Science related areas. Their portfolios are hosted on a number of different platforms.
-
-[Arthur Koehl](http://arthurkoehl.com/) has excellent visuals and descriptive text and uses a simple, but highly effective structure. 
-
-[Michele Tobias](https://micheletobias.github.io/maps/) has a portfolio for  tailored purpose: to share geospatial projects that involve coding.
-
-[Ryan Peek](https://ryanpeek.org/) combines a blog and project examples. 
-
-[Samuel Pizelo](https://www.samuelpizelo.com/) has simple list of projects supported by context on the other pages (bio, contact info, teaching, etc.).
-
-[Jared Joseph](https://jnjoseph.com/) showcases his visualization skills, using the website design to underscore those skills.
-
-[Allison Horst](https://allisonhorst.com/allison-horst) showcases her artwork that explains data science concepts on her portfolio.
