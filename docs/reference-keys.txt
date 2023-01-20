@@ -18,13 +18,14 @@ platform-types
 website-builders
 build-your-own-website
 minimal-effort-options
+examples
 examples-of-data-science-portfolios
-plan-your-portfolio
-develop-your-plan
-strategies-for-projects-that-cant-be-shared
 getting-feedback
 asking-for-feedback
 using-feedback
+plan-your-portfolio
+develop-your-plan
+strategies-for-projects-that-cant-be-shared
 share
 ways-to-share
 time-to-work
