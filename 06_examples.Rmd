@@ -12,9 +12,13 @@ Below are some examples of portfolios of people working in Data Science related 
 
 [Michele Tobias](https://sites.google.com/site/mtobiasresearch) has separate portfolio pages for different aspects of her work and other pages to give the work more context.
 
+[Taylor Reiter](https://taylorreiter.github.io/aboutme/) has a visually uncomplicated website with links to project web pages and her other academic profiles.
+
 [Ryan Peek](https://ryanpeek.org/) combines a blog and project examples. 
 
 [Samuel Pizelo](https://www.samuelpizelo.com/) has simple list of projects supported by context on the other pages (bio, contact info, teaching, etc.).
+
+[Liza Wood](https://liza-wood.github.io/index.html) uses tabs on her Research page to divide her work into categories.
 
 [Jared Joseph](https://jnjoseph.com/) showcases his visualization skills, using the website design to underscore those skills.
 
