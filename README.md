@@ -67,6 +67,7 @@ _Maintainer: Michele Tobias <<mmtobias@ucdavis.edu>>_
 
 * [Reader](https://ucdavisdatalab.github.io/workshop_portfolios/)
 * [Event Page](https://datalab.ucdavis.edu/eventscalendar/YOUR_EVENT/)
+* [Google Drive](https://drive.google.com/drive/u/1/folders/1TC1nf4zt-QeCnkKK44bQRc_xK3N6y0C4)
 
 
 # Workshop Description
