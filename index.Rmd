@@ -32,17 +32,17 @@ output:
 # Overview {-}
 
 ## Workshop Description
-A digital (online) portfolio complements you CV and other application materials on the job market or in grant applications and demonstrates your skills to potential collaborators and employers.  In this workshop, we will discuss reasons you want to create a digital portfolio of your work, methods for creating it, and considerations for carefully curating and presenting your work in an engaging manner.	
+A digital (online) portfolio complements your CV (or resume) and helps demonstrate your skills to potential collaborators, employers, and/or funders. Digital portfolios expand upon the skills in your other application materials for jobs or grants, allowing you to showcase your abilities. In this workshop we will discuss why you should create and maintain a digital portfolio of your work, various methods for creating a digital portfolio, and considerations for carefully curating and presenting your work in an engaging manner.	
 
 ## Learning Objectives
-Participants will 
+By the end of this workshop learners should be able to:
 
-* Learn reasons to create a digital portfolio
-* Set a clear goal for their portfolio
-* Understand methods for creating and curating their digital portfolio
-* Be able to articulate reasons to choose a particular platform to host their portfolio
-* Learn how and when to get feedback
-* Learn about sharing their portfolio
+* Describe what a digital portfolio contains and how it is useful;
+* Set a clear goal for their portfolio;
+* Describe methods for creating and curating their digital portfolio;
+* Articulate reasons to choose a particular platform to host their portfolio;
+* Identify how and when to get feedback;
+* Develop a plan for sharing their portfolio.
 
 
 ## Prerequisites
