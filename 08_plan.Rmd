@@ -6,13 +6,11 @@ knitr::include_graphics("./images/noun-brainstorm-2909385.png")
 
 ## Develop Your Plan
 
-Review your CV/resume. 
+It's time to make some decisions!
 
-What is the main goal for your portfolio? What should it communicate to potential viewers?
-
-What project(s) best match your goals? What projects are likely to most excite someone else? How can you integrate various media such as image or video?
-
-What platform would you like to use?
+* What is the main goal for your portfolio? What should it communicate to potential viewers?
+* Review your CV/resume. What listed project(s) best match your goals? What projects are likely to most excite someone else? How can you integrate various media such as image or video?
+* What platform would you like to use?
 
 
 | **ACTIVITY 3** breakout rooms - 20 min  | 
@@ -32,17 +30,15 @@ What platform would you like to use?
 knitr::include_graphics("./images/noun-collaboration-2909353.png")
 ```
 
-## Strategies for Projects that can't be shared
+## Strategies for sensitive data and projects that can't be shared
 
-Sometimes being a good colleague means you may not be able to share every important project you've worked on. Whether the data is personally identifiable data (PII), the paper associated with the project is awaiting publication, or the work is a part of a team effort that needs to be shared in another way, you may not be comfortable sharing a certain project on your personal portfolio. You still may want to share the skills you learned working on these kinds of projects in your portfolio, but you'll need to find ways to honor the private aspects of the project.
+Sometimes being a good colleague means you may not be able to share every important project you've worked on. Whether the data is personally identifiable data (PII), the paper associated with the project is awaiting publication, or the work is a part of a team effort that needs to be shared in another way, you may not be comfortable or able to share a certain project on your personal portfolio. You still may want to share the skills you learned working on these kinds of projects in your portfolio, but you'll need to find ways to honor the sensitive aspects of the project.
 
 Depending on the nature of the project and the reasons you can't share it in its entirety, here are some potential strategies for including a project of this nature in your portfolio:
 
 * Describe the project's goals and status without sharing the code or results
-* Run a similar analysis with open licensed data with a similar structure or example data you crafted that has no relation to the original project's data to demonstrate your skills
+* Run a similar analysis with open licensed data with a similar structure (or with dummy example data you create for this purpose that has no relation to the original project's data) to demonstrate your skills
 * Write pseudocode or offer a workflow diagram in place of the code and data
 * Link to the team's online repository or web pages describing the project
 
 For example, maybe you worked on a project where you were responsible for geocoding hundreds of patient addresses. You cannot share this data or the resulting maps because the data is personally identifiable information (PII) and should be kept private. To demonstrate your ability to create and work with geocoded data, you could find a publicly available list of addresses for hospitals and run the same data cleaning, processing, and analysis workflow with that data to post on your portfolio site.
-
-
