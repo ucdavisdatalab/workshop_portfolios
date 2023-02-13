@@ -6,17 +6,17 @@ knitr::include_graphics("./images/noun-elevator-pitch-2909310.png")
 
 ## Examples of Data Science Portfolios
 
-Below are some examples of portfolios of people working in Data Science related areas. These portfolios are hosted on a number of different platforms and organized to suit the goals of the portfolio.
+Below are some examples of portfolios of DataLab affiliates and alumni who work in the Data Sciences and related areas. These portfolios are hosted on a variety of different platforms and are organized differently to meet the goals of each individual.
 
-[Arthur Koehl](http://arthurkoehl.com/) has excellent visuals and descriptive text and uses a simple, but highly effective structure. 
+[Arthur Koehl](http://arthurkoehl.com/) has excellent visuals and descriptive text using a simple, but highly effective, structure. 
 
 [Michele Tobias](https://sites.google.com/site/mtobiasresearch) has separate portfolio pages for different aspects of her work and other pages to give the work more context.
 
-[Taylor Reiter](https://taylorreiter.github.io/aboutme/) has a visually uncomplicated website with links to project web pages and her other academic profiles.
+[Taylor Reiter](https://taylorreiter.github.io/aboutme/) has a visually uncomplicated yet impactful website with links to project web pages and her other academic profiles.
 
-[Ryan Peek](https://ryanpeek.org/) combines a blog and project examples. 
+[Ryan Peek](https://ryanpeek.org/) combines a blog and dynamic roject examples.
 
-[Samuel Pizelo](https://www.samuelpizelo.com/) has simple list of projects supported by context on the other pages (bio, contact info, teaching, etc.).
+[Samuel Pizelo](https://www.samuelpizelo.com/) has a simple list of projects supported by context on other pages (bio, contact info, teaching, etc.).
 
 [Liza Wood](https://liza-wood.github.io/index.html) uses tabs on her Research page to divide her work into categories.
 
