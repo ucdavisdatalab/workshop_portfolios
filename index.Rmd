@@ -32,9 +32,11 @@ output:
 # Overview {-}
 
 ## Workshop Description
+
 A digital (online) portfolio complements your CV (or resume) and helps demonstrate your skills to potential collaborators, employers, and/or funders. Digital portfolios expand upon the skills in your other application materials for jobs or grants, allowing you to showcase your abilities. In this workshop we will discuss why you should create and maintain a digital portfolio of your work, various methods for creating a digital portfolio, and considerations for carefully curating and presenting your work in an engaging manner.	
 
 ## Learning Objectives
+
 By the end of this workshop learners should be able to:
 
 * Describe what a digital portfolio contains and how it is useful;
@@ -46,6 +48,7 @@ By the end of this workshop learners should be able to:
 
 
 ## Prerequisites
+
 Participants should have access to a web browser (for example, Chrome or Firefox).
 
 See the next section ([Prepare](https://ucdavisdatalab.github.io/workshop_portfolios/prepare.html)) for recommended preparation for this workshop.
