@@ -9,7 +9,7 @@ knitr::include_graphics("./images/noun-leadership-2909348.png")
 ## Ways to Share
 
 * Link in your resume or CV
-* Social media posts
-* Link on your website and/or your online profiles
+* Social media posts (e.g., "I just made my first digital portfoilio! Check it out at [url]!")
+* Link on your website and/or your online profiles for LinkedIn, social media, etc.
 * Link in your email signature
 * Link landing pages like Linktree or Koji
