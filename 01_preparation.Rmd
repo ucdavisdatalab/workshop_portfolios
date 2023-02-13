@@ -7,7 +7,7 @@ knitr::include_graphics("./images/noun-illustrator-2909376_computer.png")
 In preparation for this workshop, please complete the following tasks:
 
 1. Create or update your CV (Curriculum Vitae). The [UC Davis Internship and Career Center](https://icc.ucdavis.edu/materials/resume) has excellent resources to help you get started or improve your CV. In this workshop, you will use your CV as a resource and inspiration for what to include in your digital portfolio.
-2. Make a list of all of the skills you have.
+2. Make a list of all of the skills you have. This should include technical skills (such as programming languages), and can also include interpersonal, communication, and leadership skills. Listing your hobbies is at your discretion, and can be helpful if they interface with your reserach/work (i.e., graphic design and data visualization).
 3. Make a list of any skills you would like to develop or improve.
 
-Consider [downloading the worksheet](https://github.com/ucdavisdatalab/workshop_portfolios/blob/main/additional_materials/worksheet_portfolios.pdf) that is designed to accompany this workshop.
+We recommend you [downloading this worksheet](https://github.com/ucdavisdatalab/workshop_portfolios/blob/main/additional_materials/worksheet_portfolios.pdf) that accompanies this workshop in advance.
