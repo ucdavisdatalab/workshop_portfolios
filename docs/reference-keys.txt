@@ -25,7 +25,7 @@ asking-for-feedback
 using-feedback
 plan-your-portfolio
 develop-your-plan
-strategies-for-projects-that-cant-be-shared
+strategies-for-sensitive-data-and-projects-that-cant-be-shared
 share
 ways-to-share
 time-to-work
