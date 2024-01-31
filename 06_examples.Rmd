@@ -14,7 +14,7 @@ Below are some examples of portfolios of DataLab affiliates and alumni who work 
 
 [Taylor Reiter](https://taylorreiter.github.io/aboutme/) has a visually uncomplicated yet impactful website with links to project web pages and her other academic profiles.
 
-[Ryan Peek](https://ryanpeek.org/) combines a blog and dynamic roject examples.
+[Ryan Peek](https://ryanpeek.org/) combines a blog and dynamic project examples.
 
 [Samuel Pizelo](https://www.samuelpizelo.com/) has a simple list of projects supported by context on other pages (bio, contact info, teaching, etc.).
 
@@ -26,4 +26,3 @@ Below are some examples of portfolios of DataLab affiliates and alumni who work 
 
 [Rich Pauloo](https://www.richpauloo.com/) uses a tile widget to list his projects.
 
-[Allison Horst](https://allisonhorst.com/allison-horst) showcases her artwork that explains data science concepts on her portfolio.

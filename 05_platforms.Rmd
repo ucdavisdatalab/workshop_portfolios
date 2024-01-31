@@ -10,11 +10,11 @@ knitr::include_graphics("./images/noun-curiosity-2909383.png")
 
 ## Platform Considerations
 
-Technical considerations: What platforms are commonly used in your field? Do you have prior experience with a specific platform that you can leverage? The platform you chose can highlight your technical skills - or provide an opportunity to help you develop a skill you want to gain. For example, HTML, Shiny, Wordpress, or GitHub Pages can all be used in creating a digital portfolio.
+**Technical considerations:** What platforms are commonly used in your field? Do you have prior experience with a specific platform that you can leverage? The platform you chose can highlight your technical skills - or provide an opportunity to help you develop a skill you want to gain. For example, HTML, Shiny, Wordpress, or GitHub Pages can all be used in creating a digital portfolio.
 
-Style considerations: Does your platform have themes that you can use to your advantage? For example, WordPress has some free templates that are specifically geared towards portfolios. There are existing project templates on GitHub that, if they fit your needs, you can fork and modify for your portfolio. If you plan to use images, does the platform represent images in an engaging way? If you're showcasing dynamic, interactive, and/or video visualizations can the platform handle those?
+**Style considerations:** Does your platform have themes that you can use to your advantage? For example, WordPress has some free templates that are specifically geared towards portfolios. There are existing project templates on GitHub that, if they fit your needs, you can fork and modify for your portfolio. If you plan to use images, does the platform represent images in an engaging way? If you're showcasing dynamic, interactive, and/or video visualizations can the platform handle those?
 
-Maintenance considerations: How robust is the platform? How often will you be updating it? Is there an associated cost to hosting your portfolio that you need to be prepared for?
+**Maintenance considerations:** How robust is the platform? How often will you be updating it? Is there an associated cost to hosting your portfolio that you need to be prepared for?
 
 ```{r, echo=FALSE, fig.alt="Black and white Noun Project Icon showing a woman points to a slide with html code brackets", out.width="25%"}
 knitr::include_graphics("./images/noun-software-engineer-2909346.png")
@@ -30,7 +30,7 @@ Website builders are good for both novices and pros. Just because you can write 
 
 Be sure to explore the theme options for your builder of choice. Some themes are free, but others may have an associated fee. Often, you'll find themes that are specifically built for portfolios, but blog themes may also do the job well.
 
-Some common Website Builders that may be apprioriate for digital portfolios include:
+Some common Website Builders that may be appropriate for digital portfolios include:
 
 * Wix
 * Wordpress
