@@ -9,7 +9,7 @@ You can think of your portfolio as public evidence of your data science skills.
 
 For example, your portfolio can feature your code (including documentation) and writing samples (including publications) to show your ability to reproducibly work with data and communicate your findings. You can also use the narrative to illustrate how you develop a research question and/or approach problem-solving. 
 
-```{r, echo=FALSE, fig.alt="Black and white Noun Project Icon showing a woman juggling many skill icons - money, time, a computer, and a pen", out.width="25%", out.extra='style="float:right; padding:10px"}
+```{r, echo=FALSE, fig.alt="Black and white Noun Project Icon showing a woman juggling many skill icons - money, time, a computer, and a pen", out.width="25%", out.extra='style="float:right; padding:10px"'}
 knitr::include_graphics("./images/noun-freelancer-2909387_skills_halo.png")
 ```
 
