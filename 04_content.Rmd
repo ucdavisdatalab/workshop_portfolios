@@ -46,7 +46,7 @@ Here are some types of contact information to consider:
 * [GitHub](https://github.com/) Profile - if you don't have a github account, now's a good time to make one!
 * Other tech community profiles ([Stack Exchange](https://stackexchange.com/), [Stack Overflow](https://stackoverflow.com/), [Reddit](https://www.reddit.com/))
 * [LinkedIn](https://www.linkedin.com) Profile
-* Website - for your current organization or projet(s)
+* Website - for your current organization or project(s)
 * Work-related social media accounts that you use to represent yourself professionally (Twitter, Instagram, TikTok, YouTube, etc.)
 
 ```{r, echo=FALSE, fig.alt="Black and white Noun Project Icon showing a woman sitting at a table; on the table are cards containing different designs", out.width="25%"}
